@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[瑶ノ子 - YokoTamanoko.com]]></title><description><![CDATA[I produce my art by the beautiful scene that comes to my mind.]]></description><link>https://lumen.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 08 Nov 2019 16:50:29 GMT</lastBuildDate><item><title><![CDATA[五感(Five Senses) Art Exhibition]]></title><description><![CDATA[My friends and I would like to hold the 五感(Five Senses) Art Exhibition from 21st to 23rd Nov 2019 at Dazaifu in Japan.]]></description><link>https://lumen.netlify.com/posts/five-senses-art-exhibition/</link><guid isPermaLink="false">https://lumen.netlify.com/posts/five-senses-art-exhibition/</guid><pubDate>Sat, 09 Nov 2019 06:40:32 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[瑶ノ子 - YokoTamanoko.com]]></title><description><![CDATA[I produce my art by the beautiful scene that comes to my mind.]]></description><link>https://lumen.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 08 Nov 2019 16:54:48 GMT</lastBuildDate><item><title><![CDATA[五感(Five Senses) Art Exhibition]]></title><description><![CDATA[My friends and I would like to hold the 五感(Five Senses) Art Exhibition from 21st to 23rd Nov 2019 at Dazaifu in Japan.]]></description><link>https://lumen.netlify.com/posts/five-senses-art-exhibition/</link><guid isPermaLink="false">https://lumen.netlify.com/posts/five-senses-art-exhibition/</guid><pubDate>Sat, 09 Nov 2019 06:40:32 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/yokotamanoko.github.io/static/3ac7b1bbee299f03de5f3593c76913d1/1f853/fivesensesexhibition.jpg&quot;
+    href=&quot;/static/3ac7b1bbee299f03de5f3593c76913d1/1f853/fivesensesexhibition.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -15,24 +15,24 @@
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
-          srcset=&quot;/yokotamanoko.github.io/static/3ac7b1bbee299f03de5f3593c76913d1/01472/fivesensesexhibition.webp 240w,
-/yokotamanoko.github.io/static/3ac7b1bbee299f03de5f3593c76913d1/222bd/fivesensesexhibition.webp 480w,
-/yokotamanoko.github.io/static/3ac7b1bbee299f03de5f3593c76913d1/620b9/fivesensesexhibition.webp 960w,
-/yokotamanoko.github.io/static/3ac7b1bbee299f03de5f3593c76913d1/86447/fivesensesexhibition.webp 1024w&quot;
+          srcset=&quot;/static/3ac7b1bbee299f03de5f3593c76913d1/01472/fivesensesexhibition.webp 240w,
+/static/3ac7b1bbee299f03de5f3593c76913d1/222bd/fivesensesexhibition.webp 480w,
+/static/3ac7b1bbee299f03de5f3593c76913d1/620b9/fivesensesexhibition.webp 960w,
+/static/3ac7b1bbee299f03de5f3593c76913d1/86447/fivesensesexhibition.webp 1024w&quot;
           sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/yokotamanoko.github.io/static/3ac7b1bbee299f03de5f3593c76913d1/3bc27/fivesensesexhibition.jpg 240w,
-/yokotamanoko.github.io/static/3ac7b1bbee299f03de5f3593c76913d1/98431/fivesensesexhibition.jpg 480w,
-/yokotamanoko.github.io/static/3ac7b1bbee299f03de5f3593c76913d1/b3ee8/fivesensesexhibition.jpg 960w,
-/yokotamanoko.github.io/static/3ac7b1bbee299f03de5f3593c76913d1/1f853/fivesensesexhibition.jpg 1024w&quot;
+          srcset=&quot;/static/3ac7b1bbee299f03de5f3593c76913d1/3bc27/fivesensesexhibition.jpg 240w,
+/static/3ac7b1bbee299f03de5f3593c76913d1/98431/fivesensesexhibition.jpg 480w,
+/static/3ac7b1bbee299f03de5f3593c76913d1/b3ee8/fivesensesexhibition.jpg 960w,
+/static/3ac7b1bbee299f03de5f3593c76913d1/1f853/fivesensesexhibition.jpg 1024w&quot;
           sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/yokotamanoko.github.io/static/3ac7b1bbee299f03de5f3593c76913d1/b3ee8/fivesensesexhibition.jpg&quot;
+          src=&quot;/static/3ac7b1bbee299f03de5f3593c76913d1/b3ee8/fivesensesexhibition.jpg&quot;
           alt=&quot;About me&quot;
           title=&quot;About me&quot;
           loading=&quot;lazy&quot;
@@ -56,7 +56,7 @@ Text me.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[New My Lifestyl
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/yokotamanoko.github.io/static/f9a41f4ab07266112f6bd1e7ee40386d/1f853/headphones.jpg&quot;
+    href=&quot;/static/f9a41f4ab07266112f6bd1e7ee40386d/1f853/headphones.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -67,24 +67,24 @@ Text me.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[New My Lifestyl
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
-          srcset=&quot;/yokotamanoko.github.io/static/f9a41f4ab07266112f6bd1e7ee40386d/01472/headphones.webp 240w,
-/yokotamanoko.github.io/static/f9a41f4ab07266112f6bd1e7ee40386d/222bd/headphones.webp 480w,
-/yokotamanoko.github.io/static/f9a41f4ab07266112f6bd1e7ee40386d/620b9/headphones.webp 960w,
-/yokotamanoko.github.io/static/f9a41f4ab07266112f6bd1e7ee40386d/86447/headphones.webp 1024w&quot;
+          srcset=&quot;/static/f9a41f4ab07266112f6bd1e7ee40386d/01472/headphones.webp 240w,
+/static/f9a41f4ab07266112f6bd1e7ee40386d/222bd/headphones.webp 480w,
+/static/f9a41f4ab07266112f6bd1e7ee40386d/620b9/headphones.webp 960w,
+/static/f9a41f4ab07266112f6bd1e7ee40386d/86447/headphones.webp 1024w&quot;
           sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/yokotamanoko.github.io/static/f9a41f4ab07266112f6bd1e7ee40386d/3bc27/headphones.jpg 240w,
-/yokotamanoko.github.io/static/f9a41f4ab07266112f6bd1e7ee40386d/98431/headphones.jpg 480w,
-/yokotamanoko.github.io/static/f9a41f4ab07266112f6bd1e7ee40386d/b3ee8/headphones.jpg 960w,
-/yokotamanoko.github.io/static/f9a41f4ab07266112f6bd1e7ee40386d/1f853/headphones.jpg 1024w&quot;
+          srcset=&quot;/static/f9a41f4ab07266112f6bd1e7ee40386d/3bc27/headphones.jpg 240w,
+/static/f9a41f4ab07266112f6bd1e7ee40386d/98431/headphones.jpg 480w,
+/static/f9a41f4ab07266112f6bd1e7ee40386d/b3ee8/headphones.jpg 960w,
+/static/f9a41f4ab07266112f6bd1e7ee40386d/1f853/headphones.jpg 1024w&quot;
           sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/yokotamanoko.github.io/static/f9a41f4ab07266112f6bd1e7ee40386d/b3ee8/headphones.jpg&quot;
+          src=&quot;/static/f9a41f4ab07266112f6bd1e7ee40386d/b3ee8/headphones.jpg&quot;
           alt=&quot;About me&quot;
           title=&quot;About me&quot;
           loading=&quot;lazy&quot;
@@ -106,7 +106,7 @@ I’d like to write about this again on a different day.&lt;/p&gt;</content:enco
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/yokotamanoko.github.io/static/ab6d2f7588825df8d0e33c9f00cdab11/1f853/hydrangeas.jpg&quot;
+    href=&quot;/static/ab6d2f7588825df8d0e33c9f00cdab11/1f853/hydrangeas.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -117,24 +117,24 @@ I’d like to write about this again on a different day.&lt;/p&gt;</content:enco
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
-          srcset=&quot;/yokotamanoko.github.io/static/ab6d2f7588825df8d0e33c9f00cdab11/01472/hydrangeas.webp 240w,
-/yokotamanoko.github.io/static/ab6d2f7588825df8d0e33c9f00cdab11/222bd/hydrangeas.webp 480w,
-/yokotamanoko.github.io/static/ab6d2f7588825df8d0e33c9f00cdab11/620b9/hydrangeas.webp 960w,
-/yokotamanoko.github.io/static/ab6d2f7588825df8d0e33c9f00cdab11/86447/hydrangeas.webp 1024w&quot;
+          srcset=&quot;/static/ab6d2f7588825df8d0e33c9f00cdab11/01472/hydrangeas.webp 240w,
+/static/ab6d2f7588825df8d0e33c9f00cdab11/222bd/hydrangeas.webp 480w,
+/static/ab6d2f7588825df8d0e33c9f00cdab11/620b9/hydrangeas.webp 960w,
+/static/ab6d2f7588825df8d0e33c9f00cdab11/86447/hydrangeas.webp 1024w&quot;
           sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/yokotamanoko.github.io/static/ab6d2f7588825df8d0e33c9f00cdab11/3bc27/hydrangeas.jpg 240w,
-/yokotamanoko.github.io/static/ab6d2f7588825df8d0e33c9f00cdab11/98431/hydrangeas.jpg 480w,
-/yokotamanoko.github.io/static/ab6d2f7588825df8d0e33c9f00cdab11/b3ee8/hydrangeas.jpg 960w,
-/yokotamanoko.github.io/static/ab6d2f7588825df8d0e33c9f00cdab11/1f853/hydrangeas.jpg 1024w&quot;
+          srcset=&quot;/static/ab6d2f7588825df8d0e33c9f00cdab11/3bc27/hydrangeas.jpg 240w,
+/static/ab6d2f7588825df8d0e33c9f00cdab11/98431/hydrangeas.jpg 480w,
+/static/ab6d2f7588825df8d0e33c9f00cdab11/b3ee8/hydrangeas.jpg 960w,
+/static/ab6d2f7588825df8d0e33c9f00cdab11/1f853/hydrangeas.jpg 1024w&quot;
           sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/yokotamanoko.github.io/static/ab6d2f7588825df8d0e33c9f00cdab11/b3ee8/hydrangeas.jpg&quot;
+          src=&quot;/static/ab6d2f7588825df8d0e33c9f00cdab11/b3ee8/hydrangeas.jpg&quot;
           alt=&quot;About me&quot;
           title=&quot;About me&quot;
           loading=&quot;lazy&quot;

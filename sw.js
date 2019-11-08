@@ -27,7 +27,7 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-9b41c29ee1c745f30b12.js"
+    "url": "webpack-runtime-5fe9d65bf12a96ce3ec3.js"
   },
   {
     "url": "styles.5b974634a3580648357e.css"
@@ -39,18 +39,14 @@ self.__precacheManifest = [
     "url": "commons-9779dc118e9d1e2c1bd5.js"
   },
   {
-    "url": "app-df9f6d309a612c3bc4bc.js"
+    "url": "app-d4b80e67ec75865196ae.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-a7388efdc62430243a75.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "842b9e09ed30f9a5a368a425607122c1"
-  },
-  {
-    "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
-    "revision": "d274adf0f008ef152ce70a312b04b730"
+    "revision": "b31602200cf64f98877f6ca6a8f5ba43"
   },
   {
     "url": "manifest.json",
@@ -146,12 +142,12 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   lastNavigationRequest = event.request.url
 
   let { pathname } = new URL(event.request.url)
-  pathname = pathname.replace(new RegExp(`^/yokotamanoko.github.io`), ``)
+  pathname = pathname.replace(new RegExp(`^`), ``)
 
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/yokotamanoko.github.io/app-df9f6d309a612c3bc4bc.js`))) {
+  if (!resources || !(await caches.match(`/app-d4b80e67ec75865196ae.js`))) {
     return await fetch(event.request)
   }
 
@@ -164,7 +160,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
     }
   }
 
-  const offlineShell = `/yokotamanoko.github.io/offline-plugin-app-shell-fallback/index.html`
+  const offlineShell = `/offline-plugin-app-shell-fallback/index.html`
   const offlineShellWithKey = workbox.precaching.getCacheKeyForURL(offlineShell)
   return await caches.match(offlineShellWithKey)
 })
