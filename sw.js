@@ -27,26 +27,29 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-5fe9d65bf12a96ce3ec3.js"
+    "url": "webpack-runtime-f527cd904ce29e47bea3.js"
   },
   {
-    "url": "styles.b70f9e1737b9a2b17112.css"
+    "url": "styles.cd0a7aba3f27a96757c8.css"
   },
   {
-    "url": "styles-e818bf57bdd703f5852d.js"
+    "url": "styles-9b6f388623a2ec93d35f.js"
   },
   {
-    "url": "commons-7a5952a84eb2142bfa9e.js"
+    "url": "framework-6e11d4e07218876eea4b.js"
   },
   {
-    "url": "app-d4b80e67ec75865196ae.js"
+    "url": "532a2f07-67c8581d0a70c1df7c9a.js"
   },
   {
-    "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-a7388efdc62430243a75.js"
+    "url": "app-5bfeffac5aa0acb2e8ef.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "6cf909788e778014740e1ee7c1b424ce"
+    "revision": "b0a22837930cf5b413b63c0c57660aa0"
+  },
+  {
+    "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-e8e7fbb006d57d32ed40.js"
   },
   {
     "url": "manifest.json",
@@ -54,13 +57,13 @@ self.__precacheManifest = [
   },
   {
     "url": "manifest.webmanifest",
-    "revision": "0dc4fe59414f82d42be87de17f665256"
+    "revision": "5cf18f35faa31853075b867ecbed6730"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
 workbox.routing.registerRoute(/(\.js$|\.css$|static\/)/, new workbox.strategies.CacheFirst(), 'GET');
-workbox.routing.registerRoute(/^https?:.*\page-data\/.*\/page-data\.json/, new workbox.strategies.NetworkFirst(), 'GET');
+workbox.routing.registerRoute(/^https?:.*\page-data\/.*\/page-data\.json/, new workbox.strategies.StaleWhileRevalidate(), 'GET');
 workbox.routing.registerRoute(/^https?:.*\.(png|jpg|jpeg|webp|svg|gif|tiff|js|woff|woff2|json|css)$/, new workbox.strategies.StaleWhileRevalidate(), 'GET');
 workbox.routing.registerRoute(/^https?:\/\/fonts\.googleapis\.com\/css/, new workbox.strategies.StaleWhileRevalidate(), 'GET');
 
@@ -103,7 +106,7 @@ function handleAPIRequest({ event }) {
   const params = pathname.match(/:(.+)/)[1]
   const data = {}
 
-  if (params.indexOf(`=`) !== -1) {
+  if (params.includes(`=`)) {
     params.split(`&`).forEach(param => {
       const [key, val] = param.split(`=`)
       data[key] = val
@@ -147,7 +150,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/app-d4b80e67ec75865196ae.js`))) {
+  if (!resources || !(await caches.match(`/app-5bfeffac5aa0acb2e8ef.js`))) {
     return await fetch(event.request)
   }
 
