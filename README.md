@@ -8,7 +8,7 @@ IT Engineer, Watercolour Artist
 I was born in 1987, Japan. I started drawing and programming when I was a child.  
 Since graduating from an university, I've been developing backbone systems of local governments and companies in the IT industry.  
 Currently I'm not only working as an engineer, but also producing watercolors as an artist.  
-**[Twitter](https://twitter.com/yokotamanoko)** | **[Instagram](https://www.instagram.com/yokotamanoko/)** | **[Blog](https://ameblo.jp/yokotamanoko)**
+**[Twitter](https://twitter.com/yokotamanoko)** | **[Instagram](https://www.instagram.com/yokotamanoko/)**
 
 ___
 ### Deity, Buddha and Radiance
