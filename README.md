@@ -19,7 +19,7 @@ There are many difficulties in this world. I approach the problems by creating a
 ___
 ### My Projects
 
-- KOCHI (東風) ... It's the video game under development.
+- KOCHI (東風) ... It's the video game under development. [Official Website](https://www.kochifukaba.jp/)
 - Watercolour ... You can browse my work in the past on [Instagram](https://www.instagram.com/yokotamanoko/).  
 
 ___
