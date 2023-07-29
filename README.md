@@ -24,4 +24,4 @@ ___
 **[Contact Form](https://forms.gle/HMVYyZf8vrsakRoC6)**  
 
 
-&copy; 2019-2021 [yokotamanoko.com](https://yokotamanoko.com)
+&copy; 2019-2023 [yokotamanoko.com](https://yokotamanoko.com)
