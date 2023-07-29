@@ -7,7 +7,7 @@ IT Engineer
 
 I was born in 1987, Japan. I started drawing and programming when I was a child.  
 Since graduating from an university, I've been developing backbone systems of local governments and companies in the IT industry.  
-**[Blog](https://yokotamanoko.blogspot.com)** | **[Instagram](https://www.instagram.com/yokotamanoko/)** | **[Twitter](https://twitter.com/yokotamanoko)**
+**[Blog](https://yokotamanoko.blogspot.com)** | **[Threads](https://www.threads.net/@yokotamanoko)** | **[Instagram](https://www.instagram.com/yokotamanoko/)** | **[Twitter](https://twitter.com/yokotamanoko)**
 
 ___
 ### Deity, Buddha and Radiance
