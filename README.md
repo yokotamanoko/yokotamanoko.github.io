@@ -3,12 +3,11 @@
 
 ## 谷口 瑶光  
 ### Youkou TANIGUCHI  
-IT Engineer, Watercolour Artist  
+IT Engineer  
 
 I was born in 1987, Japan. I started drawing and programming when I was a child.  
 Since graduating from an university, I've been developing backbone systems of local governments and companies in the IT industry.  
-Currently I'm not only working as an engineer, but also producing watercolors as an artist.  
-**[Twitter](https://twitter.com/yokotamanoko)** | **[Instagram](https://www.instagram.com/yokotamanoko/)**
+**[Blog](https://yokotamanoko.blogspot.com)** | **[Instagram](https://www.instagram.com/yokotamanoko/)** | **[Twitter](https://twitter.com/yokotamanoko)**
 
 ___
 ### Deity, Buddha and Radiance
@@ -20,7 +19,6 @@ ___
 ### My Projects
 
 - [東風 (KOCHI)](https://www.kochifukaba.jp/) ... It's the video game under development by [Zelkova Research Institute](https://note.com/zelkova_inst/).
-- Watercolour ... You can browse my work in the past on [Instagram](https://www.instagram.com/yokotamanoko/).  
 
 ___
 **[Contact Form](https://forms.gle/HMVYyZf8vrsakRoC6)**  
